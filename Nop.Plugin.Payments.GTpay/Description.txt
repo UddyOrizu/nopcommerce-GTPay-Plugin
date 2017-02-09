@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: Naira Card
+SystemName: Payments.GTpay
+Version: 1.0
+SupportedVersions: 3.60
+Author: steadsmart team
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.GTpay.dll
